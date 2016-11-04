@@ -1,7 +1,3 @@
-/**
- * Created by zac on 11/4/16.
- */
-
 import java.util.*;
 
 public class Main {
@@ -54,7 +50,7 @@ public class Main {
         lst.add(new Person("Timothy"));
         lst.add(new Person("Uma"));
         lst.add(new Person("Victor"));
-        lst.add(new Person("Wilma"));
+        lst.add(new Person("Wilma"))
         lst.add(new Person("Xavier"));
         lst.add(new Person("Yvonne"));
         lst.add(new Person("Zachary"));

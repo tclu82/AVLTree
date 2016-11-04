@@ -1,6 +1,3 @@
-/**
- * Created by zac on 11/4/16.
- */
 import java.util.*;
 
 public class BST<T extends Comparable<T>> {
@@ -245,5 +242,4 @@ public class BST<T extends Comparable<T>> {
         }
         return random;
     }
-
 }
